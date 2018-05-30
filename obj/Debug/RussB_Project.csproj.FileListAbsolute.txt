@@ -1,0 +1,182 @@
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\ApplicationInsights.config
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\roslyn\csc.exe
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\roslyn\System.Collections.Immutable.dll
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\roslyn\vbc.exe
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\roslyn\VBCSCompiler.exe
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\roslyn\VBCSCompiler.exe.config
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\RussB_Project.dll.config
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\RussB_Project.dll
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\RussB_Project.pdb
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\Antlr3.Runtime.dll
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\Microsoft.AI.Web.dll
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\Microsoft.AI.WindowsServer.dll
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\Microsoft.ApplicationInsights.dll
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\Microsoft.Web.Infrastructure.dll
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\Newtonsoft.Json.dll
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\System.Web.Helpers.dll
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\System.Web.Mvc.dll
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\System.Web.Optimization.dll
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\System.Web.Razor.dll
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\System.Web.WebPages.Deployment.dll
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\System.Web.WebPages.dll
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\System.Web.WebPages.Razor.dll
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\WebGrease.dll
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\Microsoft.AI.Web.xml
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\Microsoft.AI.WindowsServer.xml
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\Microsoft.ApplicationInsights.xml
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\System.Web.Helpers.xml
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\System.Web.Mvc.xml
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\System.Web.Optimization.xml
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\System.Web.Razor.xml
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\System.Web.WebPages.xml
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\System.Web.WebPages.Deployment.xml
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\System.Web.WebPages.Razor.xml
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\Antlr3.Runtime.pdb
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\bin\Newtonsoft.Json.xml
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\obj\Debug\RussB_Project.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\obj\Debug\RussB_Project.dll
+c:\users\student\documents\visual studio 2015\Projects\RussB_Project\RussB_Project\obj\Debug\RussB_Project.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\RussB_Project\RussB_Project\bin\RussB_AutoStore.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\RussB_Project\RussB_Project\bin\EntityFramework.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\RussB_Project\RussB_Project\bin\RussB_AutoStore.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\RussB_Project\RussB_Project\bin\EntityFramework.xml
+C:\Users\Student\Documents\Visual Studio 2015\Projects\RussB_Project\RussB_Project\bin\EntityFramework.SqlServer.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\RussB_Project\RussB_Project\bin\EntityFramework.SqlServer.xml
+F:\RussB_Project\RussB_Project\bin\ApplicationInsights.config
+F:\RussB_Project\RussB_Project\bin\roslyn\csc.exe
+F:\RussB_Project\RussB_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\RussB_Project\RussB_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\RussB_Project\RussB_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\RussB_Project\RussB_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\RussB_Project\RussB_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\RussB_Project\RussB_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\RussB_Project\RussB_Project\bin\roslyn\System.Collections.Immutable.dll
+F:\RussB_Project\RussB_Project\bin\roslyn\System.Reflection.Metadata.dll
+F:\RussB_Project\RussB_Project\bin\roslyn\vbc.exe
+F:\RussB_Project\RussB_Project\bin\roslyn\VBCSCompiler.exe
+F:\RussB_Project\RussB_Project\bin\roslyn\VBCSCompiler.exe.config
+F:\RussB_Project\RussB_Project\bin\RussB_Project.dll.config
+F:\RussB_Project\RussB_Project\bin\RussB_Project.dll
+F:\RussB_Project\RussB_Project\bin\RussB_Project.pdb
+F:\RussB_Project\RussB_Project\bin\Antlr3.Runtime.dll
+F:\RussB_Project\RussB_Project\bin\EntityFramework.dll
+F:\RussB_Project\RussB_Project\bin\EntityFramework.SqlServer.dll
+F:\RussB_Project\RussB_Project\bin\Microsoft.AI.Agent.Intercept.dll
+F:\RussB_Project\RussB_Project\bin\Microsoft.AI.DependencyCollector.dll
+F:\RussB_Project\RussB_Project\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\RussB_Project\RussB_Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\RussB_Project\RussB_Project\bin\Microsoft.AI.Web.dll
+F:\RussB_Project\RussB_Project\bin\Microsoft.AI.WindowsServer.dll
+F:\RussB_Project\RussB_Project\bin\Microsoft.ApplicationInsights.dll
+F:\RussB_Project\RussB_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\RussB_Project\RussB_Project\bin\Microsoft.Web.Infrastructure.dll
+F:\RussB_Project\RussB_Project\bin\Newtonsoft.Json.dll
+F:\RussB_Project\RussB_Project\bin\RussB_AutoStore.dll
+F:\RussB_Project\RussB_Project\bin\System.Web.Helpers.dll
+F:\RussB_Project\RussB_Project\bin\System.Web.Mvc.dll
+F:\RussB_Project\RussB_Project\bin\System.Web.Optimization.dll
+F:\RussB_Project\RussB_Project\bin\System.Web.Razor.dll
+F:\RussB_Project\RussB_Project\bin\System.Web.WebPages.Deployment.dll
+F:\RussB_Project\RussB_Project\bin\System.Web.WebPages.dll
+F:\RussB_Project\RussB_Project\bin\System.Web.WebPages.Razor.dll
+F:\RussB_Project\RussB_Project\bin\WebGrease.dll
+F:\RussB_Project\RussB_Project\bin\RussB_AutoStore.pdb
+F:\RussB_Project\RussB_Project\bin\EntityFramework.xml
+F:\RussB_Project\RussB_Project\bin\EntityFramework.SqlServer.xml
+F:\RussB_Project\RussB_Project\bin\Microsoft.AI.DependencyCollector.xml
+F:\RussB_Project\RussB_Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\RussB_Project\RussB_Project\bin\Microsoft.AI.Web.xml
+F:\RussB_Project\RussB_Project\bin\Microsoft.AI.WindowsServer.xml
+F:\RussB_Project\RussB_Project\bin\Microsoft.ApplicationInsights.xml
+F:\RussB_Project\RussB_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\RussB_Project\RussB_Project\bin\System.Web.Helpers.xml
+F:\RussB_Project\RussB_Project\bin\System.Web.Mvc.xml
+F:\RussB_Project\RussB_Project\bin\System.Web.Optimization.xml
+F:\RussB_Project\RussB_Project\bin\System.Web.Razor.xml
+F:\RussB_Project\RussB_Project\bin\System.Web.WebPages.xml
+F:\RussB_Project\RussB_Project\bin\System.Web.WebPages.Deployment.xml
+F:\RussB_Project\RussB_Project\bin\System.Web.WebPages.Razor.xml
+F:\RussB_Project\RussB_Project\bin\Antlr3.Runtime.pdb
+F:\RussB_Project\RussB_Project\bin\Newtonsoft.Json.xml
+F:\RussB_Project\RussB_Project\obj\Debug\RussB_Project.csprojResolveAssemblyReference.cache
+F:\RussB_Project\RussB_Project\obj\Debug\RussB_Project.dll
+F:\RussB_Project\RussB_Project\obj\Debug\RussB_Project.pdb
+E:\RussB_Project\bin\roslyn\csc.exe
+E:\RussB_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\RussB_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\RussB_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\RussB_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\RussB_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\RussB_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\RussB_Project\bin\roslyn\System.Collections.Immutable.dll
+E:\RussB_Project\bin\roslyn\System.Reflection.Metadata.dll
+E:\RussB_Project\bin\roslyn\vbc.exe
+E:\RussB_Project\bin\roslyn\VBCSCompiler.exe
+E:\RussB_Project\bin\roslyn\VBCSCompiler.exe.config
+E:\RussB_Project\bin\ApplicationInsights.config
+E:\RussB_Project\bin\RussB_Project.dll
+E:\RussB_Project\bin\RussB_Project.pdb
+E:\RussB_Project\bin\Antlr3.Runtime.dll
+E:\RussB_Project\bin\EntityFramework.dll
+E:\RussB_Project\bin\EntityFramework.SqlServer.dll
+E:\RussB_Project\bin\Microsoft.AI.Agent.Intercept.dll
+E:\RussB_Project\bin\Microsoft.AI.DependencyCollector.dll
+E:\RussB_Project\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\RussB_Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\RussB_Project\bin\Microsoft.AI.Web.dll
+E:\RussB_Project\bin\Microsoft.AI.WindowsServer.dll
+E:\RussB_Project\bin\Microsoft.ApplicationInsights.dll
+E:\RussB_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\RussB_Project\bin\Microsoft.Web.Infrastructure.dll
+E:\RussB_Project\bin\mscorlib.dll
+E:\RussB_Project\bin\Newtonsoft.Json.dll
+E:\RussB_Project\bin\RussB_AutoStore.dll
+E:\RussB_Project\bin\System.Web.Helpers.dll
+E:\RussB_Project\bin\System.Web.Mvc.dll
+E:\RussB_Project\bin\System.Web.Optimization.dll
+E:\RussB_Project\bin\System.Web.Razor.dll
+E:\RussB_Project\bin\System.Web.WebPages.Deployment.dll
+E:\RussB_Project\bin\System.Web.WebPages.dll
+E:\RussB_Project\bin\System.Web.WebPages.Razor.dll
+E:\RussB_Project\bin\WebGrease.dll
+E:\RussB_Project\bin\RussB_AutoStore.pdb
+E:\RussB_Project\bin\EntityFramework.xml
+E:\RussB_Project\bin\EntityFramework.SqlServer.xml
+E:\RussB_Project\bin\Microsoft.AI.DependencyCollector.xml
+E:\RussB_Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\RussB_Project\bin\Microsoft.AI.Web.xml
+E:\RussB_Project\bin\Microsoft.AI.WindowsServer.xml
+E:\RussB_Project\bin\Microsoft.ApplicationInsights.xml
+E:\RussB_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\RussB_Project\bin\System.Web.Helpers.xml
+E:\RussB_Project\bin\System.Web.Mvc.xml
+E:\RussB_Project\bin\System.Web.Optimization.xml
+E:\RussB_Project\bin\System.Web.Razor.xml
+E:\RussB_Project\bin\System.Web.WebPages.xml
+E:\RussB_Project\bin\System.Web.WebPages.Deployment.xml
+E:\RussB_Project\bin\System.Web.WebPages.Razor.xml
+E:\RussB_Project\bin\Antlr3.Runtime.pdb
+E:\RussB_Project\bin\Newtonsoft.Json.xml
+E:\RussB_Project\bin\normidna.nlp
+E:\RussB_Project\bin\normnfc.nlp
+E:\RussB_Project\bin\normnfd.nlp
+E:\RussB_Project\bin\normnfkc.nlp
+E:\RussB_Project\bin\normnfkd.nlp
+E:\RussB_Project\obj\Debug\RussB_Project.csprojResolveAssemblyReference.cache
+E:\RussB_Project\obj\Debug\RussB_Project.dll
+E:\RussB_Project\obj\Debug\RussB_Project.pdb
